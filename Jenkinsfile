@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "Hello World"'
 				sh '''
-					echo "哈哈哈哈"
+					echo "哈哈哈哈哈"
 					ls -lah
 				'''
             }
